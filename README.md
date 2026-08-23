@@ -40,6 +40,7 @@ Python · pandas · numpy · scikit-learn · seaborn · matplotlib · Google Col
 ## Files
 
 - `Sales_EDA.ipynb` — full analysis notebook (EDA → modeling → regularization → visualization)
+- `Sample - Superstore.csv` - raw dataset for these models
 - `README.md` — this file
 
 ## Limitations & Next Steps
